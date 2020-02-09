@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/andyrich75/money-app#readme",
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "mongoose": "^5.8.11",
     "morgan": "^1.9.1",
